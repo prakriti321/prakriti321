@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Prakriti Naval Bhagwat.
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Python, Django and front end.
-- 💻 I am a beginner and seeking opportunities to practice my skills on real world projects.
+- 👀 I’m an SAP ABAP Developer.
+- 🌱 I’m currently working on SAP ECC 6.0 and learning S4 HANA.
 - 📫 How to reach me @ prakritibhagwat@gmail.com
 
 <!---
